@@ -1,3 +1,4 @@
+#These program creates random password
 import random
 character = "abcdefghklmnopqrstuvwxyzABCGHKLMNOPQRSTUVWXYZ1234567890!#$&"
 password_length = int(input("Şifre kaç karakter olsun : "))
