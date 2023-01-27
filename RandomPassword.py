@@ -8,4 +8,4 @@ for x in range(0, password_count):
         for x in range(0, password_length):
             password_char = random.choice(character)
             password      = password + password_char
-        print("Rastgele Oluşturulan Şifreniz : " , password)
+        print("Rastgele Oluşturulan Sifreniz : " , password)
